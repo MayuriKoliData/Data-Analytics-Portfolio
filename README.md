@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Aspiring Data Analyst | Microsoft Excel | Power BI
+Aspiring Data Analyst | SQL | Python | Microsoft Excel | Power BI
 
 Welcome to my Data Analytics Portfolio. This repository showcases my hands-on projects in data analysis and business intelligence, focusing on interactive dashboards and meaningful business insights.
 
