@@ -26,7 +26,7 @@ Career Goal: Seeking an entry-level Data Analyst opportunity where I can apply m
 
 SQL : Joins, Subqueries, CTEs, Window Functions, Data Retrieval, Data Analysis.
 
-Python :Pandas, NumPy, Data Manipulation, Exploratory Data Analysis.
+Python : Pandas, NumPy, Data Manipulation, Exploratory Data Analysis.
 
 Microsoft Excel : Data Cleaning, Formulas, Lookup Functions, PivotTables, PivotCharts, Slicers, Conditional Formatting, Interactive Dashboards.
 
