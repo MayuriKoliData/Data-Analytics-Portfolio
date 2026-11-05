@@ -18,8 +18,6 @@ I am transitioning into Data Analytics and have developed practical skills in Mi
 
 I enjoy analyzing datasets, identifying trends, solving analytical problems, and presenting meaningful insights through interactive dashboards.
 
-Career Goal: Seeking an entry-level Data Analyst opportunity where I can apply my technical and analytical skills to support data-driven business decisions.
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛠️ TECHNICAL SKILLS
